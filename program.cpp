@@ -125,7 +125,7 @@ int main()
     create_graph();
     printGraph();
 
-    int src = 2, dst = 24;
+    int src = 2, dst = 20;
     cout << "path from " << src
          << " to  " << dst << ": "<<endl;
 
